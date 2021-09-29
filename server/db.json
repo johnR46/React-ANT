@@ -1,3 +1,14 @@
 {
-  "users": []
+  "users": [
+    {
+      "username": "admin",
+      "email": "johnnote7@gmail.com",
+      "gender": "male",
+      "hobbies": [
+        "Coding"
+      ],
+      "review": 16,
+      "id": 1
+    }
+  ]
 }
